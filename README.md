@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate back-end developer and AI/ML Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vkt-1271&label=Profile%20views&color=0e75b6&style=flat" alt="vkt-1271" /> </p>
-
 - 🌱 I’m currently learning **AWS Solutions Architect - Associate Specialization**
 
 - 💬 Ask me about **Machine Learning, AI, Data, Backend**
