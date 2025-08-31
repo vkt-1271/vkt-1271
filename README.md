@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate back-end developer and AI/ML Engineer</h3>
 
-
-- 🌱 I’m currently learning **AWS Solutions Architect - Associate Specialization**
-
 - 💬 Ask me about **Machine Learning, AI, Data, Backend**
 
 - 📫 How to reach me **vk.de.49@gmail.com**
