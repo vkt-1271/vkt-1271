@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Machine Learning, AI, Data, Backend**
 
-- 📫 How to reach me **vk.de.49@gmail.com**
+- 📫 How to reach me **kumartalrejavinay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
