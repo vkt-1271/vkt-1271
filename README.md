@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">A passionate back-end developer and AI/ML Engineer</h3>
-
-- 💬 Ask me about **Machine Learning, AI, Data, Backend**
-
-- 📫 How to reach me **kumartalrejavinay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
